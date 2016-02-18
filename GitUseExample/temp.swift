@@ -10,4 +10,9 @@ import UIKit
 
 class temp: NSObject {
 
+    func abc()
+    {
+        print("abc")
+    }
+    
 }
