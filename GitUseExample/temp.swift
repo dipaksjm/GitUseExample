@@ -15,6 +15,4 @@ class temp: NSObject {
         print("abc")
     }
     
-    
-    
 }
